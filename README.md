@@ -1,6 +1,4 @@
-# BtlCNWeb
-BTLWeb
-..
+
 Công nghệ sử dụng: Reactjs, template material-ui
 ## Requirment:
 nodejs
